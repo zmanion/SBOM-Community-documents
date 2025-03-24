@@ -1,10 +1,10 @@
-# CISA SBOM Community Document Repository
+# SBOM Community Document Repository
 
 This repository hosts copies of various documents drafted collaboratively by the [CISA SBOM Community](https://www.cisa.gov/sbom) and related efforts. This repository is intentionally incomplete until some organizational decision are made.
 
 The maintainers acknowledge and thank CISA, NTIA, and the many volunteer contributors to this body of work on SBOM and related topics. Document summaries are largely adapted from CISA and NTIA sources.
 
-## CISA SBOM Community
+## SBOM Community
 
 These documents were developed collaboratively by the [CISA SBOM Community](https://www.cisa.gov/sbom) and are hosted in the CISA [SBOM Resources Library](https://www.cisa.gov/topics/cyber-threats-and-advisories/sbom/sbomresourceslibrary).
 
