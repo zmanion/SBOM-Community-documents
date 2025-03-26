@@ -18,9 +18,21 @@ This repository is intentionally incomplete until some organizational decision a
 
 Further defines and clarifies SBOM Attributes from the Second Edition, offering descriptions of the minimum expected, recommended practices, and aspirational goal for each Attribute.
 
+Presentation options:
+
+CISA September 2024 [source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) [copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf)
+
 CISA September 2024 [[source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf)] [[copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf)]
 
-#### Second Edition
+| CISA | September 2024 | [source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) | [copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) |
+
+| Host | Date | | |
+| :--- | :--- | :--- | :--- |
+| CISA | September 2024 | [source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) | [copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) |
+
+| Host | Date | Source | Copy |
+| :--- | :--- | :--- | :--- |
+| CISA | September 2024 | [SBOM Framing Software Component Transparency 2024.pdf](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) | [SBOM Framing Software Component Transparency 2024.pdf](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) |
 
 A detailed foundation of SBOM that defines SBOM concepts and related terms, offers an updated baseline of how software components are to be represented, and discusses the processes around SBOM creation.
 
