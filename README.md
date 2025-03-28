@@ -18,29 +18,17 @@ This repository is intentionally incomplete until some organizational decision a
 
 Further defines and clarifies SBOM Attributes from the Second Edition, offering descriptions of the minimum expected, recommended practices, and aspirational goal for each Attribute.
 
-Presentation options:
-
-CISA September 2024 [source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) [copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf)
-
-CISA September 2024 [[source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf)] [[copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf)]
-
 | CISA | September 2024 | [source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) | [copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) |
 
-| Host | Date | | |
-| :--- | :--- | :--- | :--- |
-| CISA | September 2024 | [source](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) | [copy](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) |
-
-| Host | Date | Source | Copy |
-| :--- | :--- | :--- | :--- |
-| CISA | September 2024 | [SBOM Framing Software Component Transparency 2024.pdf](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) | [SBOM Framing Software Component Transparency 2024.pdf](SBOM/Framing/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf) |
+#### Second Edition
 
 A detailed foundation of SBOM that defines SBOM concepts and related terms, offers an updated baseline of how software components are to be represented, and discusses the processes around SBOM creation.
 
-NTIA October 2021 [[source](https://www.ntia.gov/sites/default/files/publications/ntia_sbom_framing_2nd_edition_20211021_0.pdf)] [copy]
+| NTIA | October 2021 | [[source](https://www.ntia.gov/sites/default/files/publications/ntia_sbom_framing_2nd_edition_20211021_0.pdf)] | [[copy](SBOM/Framing/ntia_sbom_framing_2nd_edition_20211021_0.pdf)] |
 
 #### First Edition
 
-NTIA November 2019 [[source](https://www.ntia.gov/files/ntia/publications/framingsbom_20191112.pdf)] [copy]
+| NTIA | November 2019 | [[source](https://www.ntia.gov/files/ntia/publications/framingsbom_20191112.pdf)] | copy |
 
 ### The Minimum Elements For a Software Bill of Materials (SBOM)
 
@@ -48,7 +36,7 @@ This is an official report produced by the U.S. government and not developed by 
 
 The Executive Order (14028) on Improving the Nation’s Cybersecurity directs the Department of Commerce, in coordination with the National Telecommunications and Information Administration (NTIA), to publish the “minimum elements” for a Software Bill of Materials (SBOM).
 
-NTIA July 2021 [[about](https://www.ntia.gov/report/2021/minimum-elements-software-bill-materials-sbom)] [[source](https://www.ntia.gov/sites/default/files/publications/sbom_minimum_elements_report_0.pdf)] [[copy](SBOM/Minimum_Elements_for_SBOM/sbom_minimum_elements_report_0.pdf)]
+| NTIA | July 2021 | [[about](https://www.ntia.gov/report/2021/minimum-elements-software-bill-materials-sbom)] | [[source](https://www.ntia.gov/sites/default/files/publications/sbom_minimum_elements_report_0.pdf)] | [[copy](SBOM/Minimum_Elements_for_SBOM/sbom_minimum_elements_report_0.pdf)] |
 
 ### SBOM FAQ
 
@@ -56,13 +44,13 @@ NTIA July 2021 [[about](https://www.ntia.gov/report/2021/minimum-elements-softwa
 
 Provides information on the benefits of SBOM, common misconceptions and concerns, creation of an SBOM, distributing and sharing an SBOM, and role specific guidance. Also, the document provides information on SBOM related efforts, such as Vulnerability Exploitability eXchange (VEX), OpenC2, and digital bill of materials (DBOM).
 
-CISA June 2024 [source] [copy]
+| CISA | June 2024 | source |copy |
 
 #### 2020 Edition
 
 Outlines detailed information, benefits, and commonly asked questions.
 
-NTIA November 2020 [[source](https://www.ntia.gov/sites/default/files/publications/sbom_faq_-_20201116_0.pdf)] [[source](SBOM/FAQ/sbom_faq_-_20201116_0.pdf)]
+| NTIA | November 2020 | [source](https://www.ntia.gov/sites/default/files/publications/sbom_faq_-_20201116_0.pdf) | [source](SBOM/FAQ/sbom_faq_-_20201116_0.pdf) |
 
 ## VEX
 
@@ -70,30 +58,34 @@ NTIA November 2020 [[source](https://www.ntia.gov/sites/default/files/publicatio
 
 Reviews, summarizes, and analyzes VEX practices to better understand how VEX is being used or considered for use.
 
-CISA March 2025
-
-Paper [[source](VEX/Reviewing_VEX_Practices/Reviewing_VEX_Practices.pdf)] [[copy](VEX/Reviewing_VEX_Practices/Reviewing_VEX_Practices.pdf)]
-
-Data [[source](VEX/Reviewing_VEX_Practices/data)] [[copy](VEX/Reviewing_VEX_Practices/data)]
+| CISA | March 2025 | source ([paper](VEX/Reviewing_VEX_Practices/Reviewing_VEX_Practices.pdf), [data](VEX/Reviewing_VEX_Practices/data)) | copy ([paper](VEX/Reviewing_VEX_Practices/Reviewing_VEX_Practices.pdf), [data](VEX/Reviewing_VEX_Practices/data)) |
 
 ### When to Issue VEX
 
-CISA November 2023
+blurb
+
+| CISA | November 2023 | source | copy |
 
 ### Minimum Requirements for VEX
 
-CISA April 2023
+blurb
+
+| CISA | April 2023 | source | copy |
 
 ### VEX Status Justifications
 
-CISA June 2022
+quick
+
+| CISA | June 2022 | source | copy |
 
 ### VEX  Use Cases
 
-CISA April 2022
+brown fox
+
+| CISA | April 2022 | source | copy |
 
 ### VEX Overview
 
 A brief introduction to VEX, which allows a software supplier to clarify whether a specific vulnerability actually affects a product.
 
-NTIA September 2021 [[source](https://www.ntia.gov/sites/default/files/publications/vex_one-page_summary_0.pdf)] [copy]
+| NTIA | September 2021 | [[source](https://www.ntia.gov/sites/default/files/publications/vex_one-page_summary_0.pdf) | copy |
