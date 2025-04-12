@@ -139,7 +139,7 @@ This document describes the software bill of materials (SBOM) proof of concept (
 
 This resource provides an introduction to the practice of SBOM, supporting literature, and the pivotal role SBOMs play in providing much-needed transparency for the software supply chain.
 
-| NTIA | April 2021 | [source](https://www.ntia.gov/sites/default/files/publications/sbom_at_a_glance_apr2021_0.pdf) | [copy](SBOM/SBOM_at_a_Glance/sbom_at_a_glance_apr2021_0.pdf) | [Japanese Translation](https://www.ntia.gov/sites/default/files/publications/sbom_at_a_glance_ja_0.pdf) | [copy](SBOM/SBOM_at_a_Glance/sbom_at_a_glance_ja_0.pdf)
+| NTIA | April 2021 | source ([en-US](https://www.ntia.gov/sites/default/files/publications/sbom_at_a_glance_apr2021_0.pdf), [ja](https://www.ntia.gov/sites/default/files/publications/sbom_at_a_glance_ja_0.pdf)) | copy ([en-US](SBOM/SBOM_at_a_Glance/sbom_at_a_glance_apr2021_0.pdf), [ja](SBOM/SBOM_at_a_Glance/sbom_at_a_glance_ja_0.pdf)) |
 
 ### SBOM Options and Decision Points
 
