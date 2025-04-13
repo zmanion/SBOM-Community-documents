@@ -70,13 +70,13 @@ This document is a guide for creating a build SBOM for products that require pro
 
 This document will provide guidance in line with industry best practices and principles which software developers and software suppliers are encouraged to reference.
 
-| CISA ESF | November 2023 | [source](https://media.defense.gov/2023/Nov/09/2003338086/-1/-1/0/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.PDF) | [copy](SBOM/Securing_the_Software_Supply_Chain/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.pdf) |
+| [NSA ESF](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/) | November 2023 | [source](https://media.defense.gov/2023/Nov/09/2003338086/-1/-1/0/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.PDF) | [copy](SBOM/Securing_the_Software_Supply_Chain/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.pdf) |
 
 ### Securing the Software Supply Chain: Recommended Practices for Managing Open-Source Software and Software Bill of Materials
 
 This document aligns with industry best practices and principles, including managing open source software and software bills of materials, that software developers and software suppliers can reference.
 
-| CISA ESF | November 2023 | [source](https://media.defense.gov/2023/Dec/11/2003355557/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.PDF) | [copy](SBOM/Securing_the_Software_Supply_Chain/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.pdf) |
+| [NSA ESF](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/) | November 2023 | [source](https://media.defense.gov/2023/Dec/11/2003355557/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.PDF) | [copy](SBOM/Securing_the_Software_Supply_Chain/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.pdf) |
 
 ### Software Identification Ecosystem Option Analysis
 
